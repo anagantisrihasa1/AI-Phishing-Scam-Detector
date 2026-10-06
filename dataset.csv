@@ -1,0 +1,41 @@
+message,label
+"Congratulations! You won a lottery prize. Click here to claim now.",phishing
+"Urgent! Verify your bank account immediately.",phishing
+"Your OTP is required to complete account verification.",phishing
+"Your account has been suspended. Login now to restore access.",phishing
+"Click here to claim your free gift card.",phishing
+"Update your payment information immediately.",phishing
+"Your KYC has expired. Verify your account.",phishing
+"You have won a cash reward. Claim now.",phishing
+"Send your bank details to receive your prize.",phishing
+"Limited time offer! Click here to get free money.",phishing
+"Congratulations winner! Claim your reward now.",phishing
+"Verify your password immediately using this link.",phishing
+"Urgent! Your account will be blocked. Login now.",phishing
+"Your refund is waiting. Click here to receive it.",phishing
+"Confirm your OTP to unlock your account.",phishing
+"Your payment failed. Update your bank details now.",phishing
+"You have won a free smartphone. Claim your prize.",phishing
+"Your account needs urgent verification.",phishing
+"Click here to receive your lottery money.",phishing
+"Your KYC verification failed. Submit your details now.",phishing
+"Your class starts at 9 AM tomorrow. Please bring your notebook.",legitimate
+"The project meeting is scheduled for 2 PM in the lab.",legitimate
+"Your library book is due next Monday.",legitimate
+"Please submit your assignment before Friday.",legitimate
+"Your exam timetable has been uploaded to the college portal.",legitimate
+"The workshop will begin at 10 AM in the seminar hall.",legitimate
+"Please bring your ID card for tomorrow's practical exam.",legitimate
+"Your internship orientation is scheduled for Monday.",legitimate
+"The faculty meeting has been moved to Room 204.",legitimate
+"Your attendance report is available on the student portal.",legitimate
+"The bus will leave campus at 5 PM today.",legitimate
+"Please check the official college notice board for updates.",legitimate
+"Your assignment feedback is available on the classroom portal.",legitimate
+"The coding club meeting is at 4 PM in the computer lab.",legitimate
+"Your semester results are available on the official university website.",legitimate
+"Please bring your project presentation slides tomorrow.",legitimate
+"The lab session has been rescheduled to Wednesday.",legitimate
+"Your fee receipt is available in the student portal.",legitimate
+"The placement training session begins at 11 AM.",legitimate
+"Please submit your project report to the department office.",legitimate
